@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "フェイクアクター",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-09T08:03:02.009643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フェイクアクター",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_フェイクアクター_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fake Actor - フェイクアクター",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_Fake_Actor_-_フェイクアクター_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フェイクアクター",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_フェイクアクター_DECO_27.txt"
+    }
+  ]
+}
